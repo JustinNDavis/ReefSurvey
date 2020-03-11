@@ -1,0 +1,5 @@
+C:\Users\wwstudent\Desktop\ReefSurvey\ReefSurvey\ReefSurvey.Model\bin\Debug\netcoreapp3.1\ReefSurvey.Model.deps.json
+C:\Users\wwstudent\Desktop\ReefSurvey\ReefSurvey\ReefSurvey.Model\bin\Debug\netcoreapp3.1\ReefSurvey.Model.dll
+C:\Users\wwstudent\Desktop\ReefSurvey\ReefSurvey\ReefSurvey.Model\obj\Debug\netcoreapp3.1\ReefSurvey.Model.csprojAssemblyReference.cache
+C:\Users\wwstudent\Desktop\ReefSurvey\ReefSurvey\ReefSurvey.Model\obj\Debug\netcoreapp3.1\ReefSurvey.Model.AssemblyInfoInputs.cache
+C:\Users\wwstudent\Desktop\ReefSurvey\ReefSurvey\ReefSurvey.Model\obj\Debug\netcoreapp3.1\ReefSurvey.Model.AssemblyInfo.cs

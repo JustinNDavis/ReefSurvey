@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wwstudent\\source\\repos\\ReefSurvey\\ReefSurvey\\ReefSurvey.csproj",
+      "projectUniqueName": "C:\\Users\\wwstudent\\Desktop\\ReefSurvey\\ReefSurvey\\ReefSurvey\\ReefSurvey.csproj",
       "projectName": "ReefSurvey",
-      "projectPath": "C:\\Users\\wwstudent\\source\\repos\\ReefSurvey\\ReefSurvey\\ReefSurvey.csproj",
+      "projectPath": "C:\\Users\\wwstudent\\Desktop\\ReefSurvey\\ReefSurvey\\ReefSurvey\\ReefSurvey.csproj",
       "packagesPath": "C:\\Users\\wwstudent\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wwstudent\\source\\repos\\ReefSurvey\\ReefSurvey\\obj\\",
+      "outputPath": "C:\\Users\\wwstudent\\Desktop\\ReefSurvey\\ReefSurvey\\ReefSurvey\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
